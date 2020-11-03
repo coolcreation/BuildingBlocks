@@ -1,0 +1,128 @@
+/* Jeff Bohn, 11-3-2020  */
+
+*{
+    margin:0; 
+    padding:0;
+}
+
+body{
+    background-color:beige;
+}
+
+#main_container{
+   width:600px;
+   margin-top:20px;
+   margin-right:auto;
+   margin-left:auto;
+   background-color:#ffffff;
+   overflow: hidden;
+   padding-top:40px;
+   }
+
+/*.border {
+    border:10px solid #666666;
+    border-radius: 15px;
+    width:100px;
+    height:100px;
+} */
+
+h2{
+    font-size: 80px;
+    font-family: verdana;
+    text-transform:uppercase;
+    text-align: center;
+   /* color:#666666; */
+}
+
+#a{
+    float: left; 
+    margin-left: 240px;
+    margin-bottom: 2px;
+    border:10px solid #1e90ff;
+    border-radius: 15px;
+    width:100px;
+    height:100px;
+}
+
+#b{
+    float: left;
+    clear: left;
+    margin-left: 180px;
+    margin-bottom: 2px;
+    border:10px solid #ff0000;
+    border-radius: 15px;
+    width:100px;
+    height:100px;
+}
+
+#c{
+    
+    float: left; 
+    margin-left: 3px;
+    margin-bottom: 2px;
+    border:10px solid #32cd32;
+    border-radius: 15px;
+    width:100px;
+    height:100px;
+}
+
+#d{
+    clear: left;
+    float: left;
+    margin-left: 115px;
+    margin-bottom: 2px;
+    border:10px solid #1e90ff;
+    border-radius: 15px;
+    width:100px;
+    height:100px;
+}
+
+#e{
+    
+    float:left;
+    margin-left: 3px;
+    margin-bottom: 2px;
+    border:10px solid #32cd32;
+    border-radius: 15px;
+    width:100px;
+    height:100px;
+}
+
+#f{
+    
+    float: left;
+    margin-left: 3px;
+    margin-bottom: 2px;
+    border:10px solid #ff0000;
+    border-radius: 15px;
+    width:100px;
+    height:100px;
+}
+.border#a{
+    color: #1e90ff;  
+}
+
+.border#b{
+     color: #ff0000;
+ 
+}
+
+.border#c{
+   
+    color: #32cd32;
+}
+
+.border#d{
+   
+    color: #1e90ff;
+}
+
+.border#e{
+    
+    color: #32cd32;
+}
+
+.border#f{
+   
+   color: #ff0000;
+}
